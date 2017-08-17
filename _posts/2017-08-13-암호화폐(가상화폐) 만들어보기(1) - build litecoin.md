@@ -16,7 +16,7 @@ https://github.com/litecoin-project/litecoin
 
 1. 소스 다운로드하거나 Clone
 {% highlight shell %}
-git clone https://github.com/litecoin-project/litecoin.git/Users/Sunki/jekyll/sunki-lee.github.io/_posts/2017-08-13-그는 당신에게 반하지 않았다.1.md
+git clone https://github.com/litecoin-project/litecoin.git
 {% endhighlight %}
 
 
